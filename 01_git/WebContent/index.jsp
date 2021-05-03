@@ -12,6 +12,10 @@
 <h1>Hello</h1>
 <h3>Hi</h3>
 
+<!-- master start -->
+<p>master !</p>
+<!-- master start -->
+
 <p>bugfix</p>
 </body>
 </html>
